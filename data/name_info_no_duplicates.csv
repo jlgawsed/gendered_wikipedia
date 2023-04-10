@@ -1,0 +1,595 @@
+Name,Book,Chapter,Gender,Named/Unnamed
+Ceolwulf,Preface,Preface,M,N
+Bede,Preface,Preface,M,N
+Albinus,Preface,Preface,M,N
+Theodore of Canterbury,Preface,Preface,M,N
+Hadrian,Preface,Preface,M,N
+Disciples of St Gregory,Preface,Preface,M,U
+Gregory the Great,Preface,Preface,M,N
+Nothhelm,Preface,Preface,M,N
+Gregory II,Preface,Preface,M,N
+Daniel,Preface,Preface,M,N
+Lastingham brethren,Preface,Preface,M,U
+Cedd,Preface,Preface,M,N
+Chad,Preface,Preface,M,N
+Esi,Preface,Preface,M,N
+Cyneberht,Preface,Preface,M,N
+Cuthbert,Preface,Preface,M,N
+Lindisfarne brethren,Preface,Preface,M,U
+Basil,1,1,M,N
+Julius Caesar,1,2,M,N
+Lucius Bibulus,1,2,M,N
+Labienus,1,2,M,N
+Androgeus,1,2,M,N
+Claudius,1,3,M,N
+Augustus,1,3,M,N
+Britannicus,1,3,M,N
+Agabus,1,3,M,N
+Vespasian,1,3,M,N
+Nero,1,3,M,N
+Marcus Antoninus,1,4,M,N
+Aurelius Commodus,1,4,M,N
+Eleutherius,1,4,M,N
+Lucius,1,4,M,N
+Diocletian,1,4,M,N
+Severus,1,5,M,N
+Bassianus,1,5,M,N
+Geta,1,5,M,N
+Maximianus,1,6,M,N
+Carausius,1,6,M,N
+Allectus,1,6,M,N
+Asclipiodotus,1,6,M,N
+Alban,1,7,M,N
+Venantius Fortunatus,1,7,M,N
+Cleric1,1,7,M,U
+Evil ruler,1,7,M,U
+Judge,1,7,M,U
+Executioner1,1,7,M,U
+Executioner2,1,7,M,U
+Aaron,1,7,M,N
+Julius,1,7,M,N
+Constantius,1,8,M,N
+Constantine,1,8,M,N
+Helena,1,8,F,N
+Eutropius,1,8,M,N
+Gratian,1,9,M,N
+Valens,1,9,M,N
+Valentinian,1,9,M,N
+Theodosius,1,9,M,N
+Maximus,1,9,M,N
+Arcadius,1,10,M,N
+Honorius,1,10,M,N
+Pelagius,1,10,M,N
+Julianus of Campania,1,10,M,N
+Augustine of Hippo,1,10,M,N
+Prosper of Aquitaine,1,10,M,N
+Alaric,1,11,M,N
+Gratian the Usurper,1,11,M,N
+Constantine the Usurper,1,11,M,N
+Officer Constantius,1,11,M,N
+Constans the monk,1,11,M,N
+Gerontius,1,11,M,N
+Theodosius the younger,1,13,M,N
+Palladius,1,13,M,N
+Celestine,1,13,M,N
+Aetius,1,13,M,N
+Symmachus,1,13,M,N
+Blaedla,1,13,M,N
+Attila,1,13,M,N
+Vortigern,1,14,M,N
+Marcian,1,15,M,N
+Valentinian III,1,15,M,N
+Hengist,1,15,M,N
+Horsa,1,15,M,N
+Wihtgisl,1,15,M,N
+Witta,1,15,M,N
+Wecta,1,15,M,N
+Woden,1,15,M,N
+Ambrosius Aurelianus,1,16,M,N
+Agricola,1,17,M,N
+Severianus,1,17,M,N
+Germanus of Auxerre,1,17,M,N
+Lupus of Troyes,1,17,M,N
+British Tribune,1,18,M,U
+Wife of British Tribune,1,18,F,U
+Blind daughter,1,18,F,U
+Person in white,1,19,X,U
+Severus of Trier,1,21,M,N
+Elafius,1,21,M,N
+Son of Elafius,1,21,M,U
+Placidia,1,21,F,N
+Follower of Aetius,1,21,M,U
+Gildas,1,22,M,N
+Maurice,1,23,M,N
+Augustine of Canterbury,1,23,M,N
+Roman missionaries,1,23,M,U
+Etherius,1,24,M,N
+Candidus,1,24,M,N
+Ethelberht of Kent,1,25,M,N
+Frankish interpreters,1,25,M,U
+Bertha,1,25,F,N
+Liudhard,1,25,M,N
+Laurence,1,27,M,N
+Peter,1,27,M,N
+Vergilius,1,28,M,N
+Mellitus,1,29,M,N
+Justus,1,29,M,N
+Paulinus,1,29,M,N
+Rufinianus,1,29,M,N
+Ethelfrith of Northumbria,1,34,M,N
+Aedan,1,34,M,N
+Theobald,1,34,M,N
+Phocas,1,34,M,N
+Gordianus,2,1,M,N
+Felix III,2,1,M,N
+Peter the Deacon,2,1,M,N
+Eutychius,2,1,M,N
+Tiberius Constantine,2,1,M,N
+Aelle,2,1,M,N
+Unnamed pope,2,1,M,U
+British bishops,2,2,M,U
+Blind man,2,2,M,U
+Dinoot,2,2,M,N
+British hermit,2,2,M,U
+Bangor monks,2,2,M,U
+Brocmail,2,2,M,N
+Saeberht,2,3,M,N
+Ricule,2,3,F,N
+Hrof,2,3,M,N
+Berhtwold,2,3,M,N
+Saint Peter,2,4,M,N
+Clement,2,4,M,N
+Irish church leaders,2,4,M,U
+Dagan,2,4,M,N
+Columban,2,4,M,N
+British priests,2,4,M,U
+Boniface IV,2,4,M,N
+Caelin of the West Saxons,2,5,M,N
+Raedwald,2,5,M,N
+Edwin,2,5,M,N
+Oswald,2,5,M,N
+Oswiu,2,5,M,N
+Eormenric,2,5,M,N
+Octa,2,5,M,N
+Oeric Oisc,2,5,M,N
+Eadbald,2,5,M,N
+Unnamed wife of Ethelberht of Kent,2,5,F,U
+Sons of Saeberht,2,5,M,U
+Boniface V,2,7,M,N
+Deusdedit,2,7,M,N
+Romanus,2,8,M,N
+Letter-bearer,2,8,M,U
+Ethelburh of Northumbria,2,9,F,N
+Eomer,2,9,M,N
+Cwichelm,2,9,M,N
+Lilla,2,9,M,N
+Forthhere,2,9,M,N
+Eanflaed,2,9,F,N
+Friend of Edwin,2,12,M,U
+Mysterious stranger,2,12,X,U
+East Anglian queen,2,12,F,U
+Regenhere,2,12,M,N
+Coifi,2,13,M,N
+Unnamed retainer,2,13,M,U
+Osfrith,2,14,M,N
+Eadfrith,2,14,M,N
+Cwenburh,2,14,F,N
+Ceorl,2,14,M,N
+Ethelhun,2,14,M,N
+Ethelthryth of Northumbria,2,14,F,N
+Uscfrea,2,14,M,N
+Yffi,2,14,M,N
+Thrythwulf,2,14,M,N
+Eorpwold,2,15,M,N
+Ealdwulf,2,15,M,N
+Tytil,2,15,M,N
+Wuffa,2,15,M,N
+Ricberht,2,15,M,N
+Sigeberht,2,15,M,N
+Bishop Felix,2,15,M,N
+Archbishop Honorius,2,15,M,N
+Blecca,2,16,M,N
+Deda,2,16,M,N
+Old man,2,16,M,U
+James the Deacon,2,16,M,N
+Pope Honorius,2,17,M,N
+Heraclius,2,18,M,N
+Constantine III,2,18,M,N
+Constantine Heraclius,2,18,M,N
+Pope-elect John,2,19,M,N
+Pope Severinus,2,19,M,N
+Tomine,2,19,M,N
+Bishop Columban,2,19,M,N
+Bishop Cronan,2,19,M,N
+Dima,2,19,M,N
+Baetan,2,19,M,N
+Priest Cronan,2,19,M,N
+Ernene,2,19,M,N
+Laisrene,2,19,M,N
+Sillan,2,19,M,N
+Segene,2,19,M,N
+Saran,2,19,M,N
+Hilarus,2,19,M,N
+Chief secretary John,2,19,M,N
+Counsellor John,2,19,M,N
+Caedwalla,2,20,M,N
+Penda,2,20,M,N
+Bass,2,20,M,N
+Dagobert,2,20,M,N
+Aelfric,3,1,M,N
+Osric,3,1,M,N
+Eanfrith of Northumbria,3,1,M,N
+Bothelm,3,2,M,N
+Unnamed brother,3,2,M,U
+Aidan,3,3,M,N
+Anatolius,3,3,M,N
+Justin II,3,4,M,N
+Justinian,3,4,M,N
+Columba,3,4,M,N
+Ninian,3,4,M,N
+Bridius,3,4,M,N
+Malcolm,3,4,M,N
+Egbert,3,4,M,N
+First Iona bishop,3,5,M,U
+King's officer,3,6,M,U
+Bebbe,3,6,F,N
+Acha,3,6,F,N
+Cynegisl,3,7,M,N
+Birinus,3,7,M,N
+Asterius,3,7,M,N
+Daughter of Cynegisl,3,7,F,U
+Haedde,3,7,M,N
+Cenwealh,3,7,M,N
+Sister of Penda,3,7,F,U
+Wife of Cenwealh,3,7,F,U
+Anna,3,7,M,N
+Agilbert,3,7,M,N
+Wine,3,7,M,N
+Wulfhere,3,7,M,N
+Leuthere,3,7,M,N
+Eorcenberht,3,8,M,N
+Eorcengota,3,8,F,N
+Fara,3,8,F,N
+Saethryth,3,8,F,N
+Ethelburh of East Anglia,3,8,F,N
+Seaxburh,3,8,F,N
+Horseman,3,9,M,U
+Paralysed girl,3,9,F,U
+Innkeeper,3,9,M,U
+Unnamed Briton,3,10,M,U
+Osthryth,3,11,F,N
+Ethelred of Mercia,3,11,M,N
+Abbess Ethelhild,3,11,F,N
+Ethelwine,3,11,M,N
+Ealdwine,3,11,M,N
+Unnamed guest,3,11,M,U
+Unnamed nun,3,11,F,U
+Unnamed priest,3,11,M,U
+Servant,3,11,F,U
+Little boy,3,12,M,U
+Monk,3,12,M,U
+Brother,3,12,M,U
+Acca,3,13,M,N
+Wilfrid,3,13,M,N
+Willibrord,3,13,M,N
+Irish scholar,3,13,M,U
+Alhfrith,3,14,M,N
+Oethelwald,3,14,M,N
+Ithamar,3,14,M,N
+Oswine,3,14,M,N
+Tondhere,3,14,M,N
+Hunwold,3,14,M,N
+Reeve Ethelwine,3,14,M,N
+Beggar,3,14,M,U
+Irish priest,3,14,M,U
+Utta,3,15,M,N
+Cynemund,3,15,M,N
+Finan,3,17,M,N
+Ecgric,3,18,M,N
+Eni,3,18,M,N
+Fursa,3,19,M,N
+Angel,3,19,X,U
+Aged brother,3,19,M,U
+Pious man,3,19,M,U
+Foillan,3,19,M,N
+Goban,3,19,M,N
+Dicuill,3,19,M,N
+Ultan,3,19,M,N
+Clovis II,3,19,M,N
+Eorcenwold,3,19,M,N
+Thomas,3,20,M,N
+Berhtgisl,3,20,M,N
+Archbishop Deusdedit,3,20,M,N
+Damian,3,20,M,N
+Peada,3,21,M,N
+Alhflaed,3,21,F,N
+Cyneburh,3,21,F,N
+Adda,3,21,M,N
+Betti,3,21,M,N
+Diuma,3,21,M,N
+Ceollach,3,21,M,N
+Trumhere,3,21,M,N
+Sigeberht of East Saxons,3,22,M,N
+Sigeberht the Small,3,22,M,N
+Gesith1,3,22,M,U
+Gesith2,3,22,M,U
+Swithhelm,3,22,M,N
+Seaxbald,3,22,M,N
+Aethelwold,3,22,M,N
+Caelin,3,23,M,N
+Cynebill,3,23,M,N
+Small boy,3,23,M,U
+Aelfflaed,3,24,F,N
+Ecgfrith,3,24,M,N
+Cynewise,3,24,F,N
+Ethelhere,3,24,M,N
+Hild,3,24,F,N
+Immin,3,24,M,N
+Eafa,3,24,M,N
+Jaruman,3,24,M,N
+Winfrith,3,24,M,N
+Eadberht of Lindisfarne,3,25,M,N
+Ronan,3,25,M,N
+Romanus of Kent,3,25,M,N
+Colman,3,25,M,N
+Dalfinus,3,25,M,N
+Agatho,3,25,M,N
+Evangelist John,3,25,M,N
+Paul,3,25,M,N
+Timothy,3,25,M,N
+Aquila,3,25,M,N
+Priscilla,3,25,F,N
+James,3,25,M,N
+Tuda,3,26,M,N
+Eata,3,26,M,N
+Aethelhun,3,27,M,N
+Aged priest,3,27,M,U
+King of Gaul,3,28,M,U
+Eadhaed,3,28,M,N
+British bishop1,3,28,M,U
+British bishop2,3,28,M,U
+Egbert of Kent,3,29,M,N
+Wigheard,3,29,M,N
+Vitalian,3,29,M,N
+Sigehere,3,30,M,N
+Sebbi,3,30,M,N
+Priest of Jaruman,3,30,M,U
+Andrew,4,1,M,N
+Archbishop John,4,1,M,N
+Ebroin,4,1,M,N
+Emme,4,1,M,N
+Faro,4,1,M,N
+Raedfrith,4,1,M,N
+Eddi Stephen,4,2,M,N
+Putta,4,2,M,N
+Owine,4,3,M,N
+Etheldreda,4,3,F,N
+Trumberht,4,3,M,N
+Higebald,4,3,M,N
+Bisi,4,5,M,N
+Proctors,4,5,M,U
+Titill,4,5,M,N
+Hlothhere,4,5,M,N
+Aecci,4,5,M,N
+Baduwine,4,5,M,N
+Seaxwulf,4,6,M,N
+Eorcenwold of London,4,6,M,N
+Ethelburh of Barking,4,6,F,N
+Older brother,4,7,M,U
+Younger brother,4,7,M,U
+Esica,4,8,M,N
+Edith,4,8,F,N
+Handmaiden,4,8,F,U
+Man of God,4,8,M,U
+Torhtgyth,4,9,F,N
+Noble nun,4,9,F,U
+Hildelith,4,10,F,N
+East Saxon gesith,4,10,M,U
+Wife of East Saxon gesith,4,10,F,U
+Maidens,4,10,F,U
+Wife of Sebbi,4,11,F,U
+Waldhere,4,11,M,N
+Angelic men,4,11,X,U
+Sigeheard,4,11,M,N
+Swaefred,4,11,M,N
+Caedwalla of West Saxons,4,12,M,N
+Cwichelm of Rochester,4,12,M,N
+Gebmund,4,12,M,N
+Bosa,4,12,M,N
+Edgar,4,12,M,N
+Tunberht,4,12,M,N
+Trumwine,4,12,M,N
+Ethelwealh,4,13,M,N
+Eappa,4,13,M,N
+Padda,4,13,M,N
+Burghelm,4,13,M,N
+Eafe,4,13,F,N
+Eanfrith of Hwicce,4,13,M,N
+Eanhere,4,13,M,N
+Dicuill of Bosham,4,13,M,N
+Saxon boy,4,14,M,U
+Berhthun,4,15,M,N
+Andhun,4,15,M,N
+Ine,4,15,M,N
+Beornwine,4,16,M,N
+Sister of Wilfrid,4,16,F,U
+Hiddila,4,16,M,N
+Prince1,4,16,M,U
+Prince2,4,16,M,U
+Arwald,4,16,M,N
+Abbot Cyneberht,4,16,M,N
+Executioner,4,16,M,U
+Eutyches,4,17,M,N
+Arius,4,17,M,N
+Macedonius,4,17,M,N
+Eudoxius,4,17,M,N
+Nestorius,4,17,M,N
+Theodore of Mopsuestia,4,17,M,N
+Theodoret of Cyrrus,4,17,M,N
+Ibas of Edessa,4,17,M,N
+Cyril of Alexandria,4,17,M,N
+Pope Martin,4,17,M,N
+Constans II,4,17,M,N
+John the Archcantor,4,18,M,N
+Pope Agatho,4,18,M,N
+Benedict Biscop,4,18,M,N
+Ceolfrith,4,18,M,N
+Tondberht,4,19,M,N
+Aebbe,4,19,F,N
+Cynefrith,4,19,M,N
+Virgil,4,20,M,N
+Helen,4,20,F,N
+Jesus,4,20,M,N
+Mary,4,20,F,N
+Agatha,4,20,F,N
+Eulalia,4,20,F,N
+Thecla,4,20,F,N
+Euphemia,4,20,F,N
+Agnes,4,20,F,N
+Cecilia,4,20,F,N
+Eve,4,20,F,N
+Elfwine,4,21,M,N
+Imma,4,22,M,N
+Mercian Gesith,4,22,M,U
+Tunna,4,22,M,N
+Frisian,4,22,M,U
+Imma's hearers,4,22,M,U
+Hereric,4,23,M,N
+Hereswith,4,23,F,N
+Heiu,4,23,F,N
+Aetla,4,23,M,N
+Oftfor,4,23,M,N
+John of Beverley,4,23,M,N
+Wilfrid II,4,23,M,N
+Osric of Hwicce,4,23,M,N
+Bosel,4,23,M,N
+Tatfrith,4,23,M,N
+Breguswith,4,23,F,N
+Cerdic,4,23,M,N
+Begu,4,23,F,N
+Frigyth,4,23,F,N
+Whitby nun,4,23,F,U
+Caedmon,4,24,M,N
+Speaker,4,24,X,U
+Reeve,4,24,M,U
+Attendant,4,24,M,U
+Adamnan,4,25,M,N
+Irish priest2,4,25,M,U
+Coldingham monk,4,25,M,U
+Angelic messenger,4,25,X,U
+Eadgisl,4,25,M,N
+Berht,4,26,M,N
+Aldfrith,4,26,M,N
+Eadric,4,26,M,N
+Wihtred,4,26,M,N
+Boisil,4,27,M,N
+Herbert,4,29,M,N
+Baduthegn,4,31,M,N
+Dacre brother,4,32,M,U
+Swithberht of Dacre,4,32,M,N
+Thrythred,4,32,M,N
+Unnamed friend,4,32,M,U
+Oethelwald of Farne,5,1,M,N
+Guthfrith,5,1,M,N
+Abbot Berhthun,5,2,M,N
+Dumb youth,5,2,M,U
+Lame man,5,2,M,U
+Physician,5,2,M,U
+Hereburh,5,3,F,N
+Cwenburh2,5,3,F,N
+Puch,5,4,M,N
+Wife of Puch,5,4,F,U
+Unnamed monk,5,4,M,U
+Mother-in-law,5,4,F,U
+Addi,5,5,M,N
+Servant of Addi,5,5,M,U
+Herebald,5,6,M,N
+Unnamed priest2,5,6,M,U
+Unnamed doctor,5,6,M,U
+Sergius,5,7,M,N
+Justinian II,5,7,M,N
+Swaefheard,5,8,M,N
+Godwin,5,8,M,N
+Tobias,5,8,M,N
+Monk of Egbert,5,9,M,U
+Wihtberht,5,9,M,N
+Radbod,5,9,M,N
+Pippin,5,10,M,N
+Black Hewald,5,10,M,N
+White Hewald,5,10,M,N
+Saxon Reeve,5,10,M,U
+Viceroy,5,10,M,U
+Tilmon,5,10,M,N
+Swithberht,5,11,M,N
+Plectrudis,5,11,F,N
+Dryhthelm,5,12,M,N
+Wife of Dryhthelm,5,12,F,U
+Sons of Dryhthelm,5,12,M,U
+Ethelwold,5,12,M,N
+Angelic man,5,12,X,U
+Cleric,5,12,M,U
+Layman,5,12,M,U
+Woman,5,12,F,U
+Evil spirits,5,12,X,U
+White robed spirits,5,12,X,U
+Haemgisl,5,12,M,N
+Mercian man,5,13,M,U
+Cenred,5,13,M,N
+Handsome youth1,5,13,X,U
+Handsome youth2,5,13,X,U
+Evil spirits2,5,13,X,U
+Pehthelm,5,13,M,N
+Smith,5,14,M,U
+Stephen,5,14,M,N
+Adomnan of Iona,5,15,M,N
+Arculf,5,15,M,N
+Osred,5,18,M,N
+Aldhelm,5,18,M,N
+Sedulius,5,18,M,N
+Forthhere of West Saxons,5,18,M,N
+Eadberht,5,18,M,N
+Eolla,5,18,M,N
+Pope Constantine,5,19,M,N
+Ceolred,5,19,M,N
+Offa,5,19,M,N
+Wife of Offa,5,19,F,U
+Wilfrid's father,5,19,M,U
+Wilfrid's mother,5,19,F,U
+Niece of Dalfinus,5,19,F,U
+Wilfrid's guide,5,19,M,U
+Archdeacon Boniface,5,19,M,N
+Baldhild,5,19,F,N
+Aldgisl,5,19,M,N
+Pope John VI,5,19,M,N
+Michael,5,19,X,N
+Cuthbald,5,19,M,N
+Maban,5,20,M,N
+Successors of Roman missionaries,5,20,M,U
+Nechtan,5,21,M,N
+Mark,5,21,M,N
+Eusebius,5,21,M,N
+Theophilus,5,21,M,N
+Dionysius Exiguus,5,21,M,N
+Simon Magus,5,21,M,N
+Cenred of Northumbria,5,22,M,N
+Dunchad,5,22,M,N
+Ethelberht II,5,23,M,N
+Eadberht of Kent,5,23,M,N
+Alric,5,23,M,N
+Ealdwulf of Rochester,5,23,M,N
+Tatwine,5,23,M,N
+Ingwold,5,23,M,N
+Ealdwine of Lichfield,5,23,M,N
+Ealdberht,5,23,M,N
+Hathulac,5,23,M,N
+Wealhstod,5,23,M,N
+Wilfrid of the Hwicce,5,23,M,N
+Ethelbald,5,23,M,N
+Ida,5,24,M,N
+Mercian nobles,5,24,M,U
+Berhtred,5,24,M,N
+Berhtfrith,5,24,M,N
+Felix the Confessor,5,24,M,N
+Paulinus of Nola,5,24,M,N
+Anastasius,5,24,M,N
+Hwaetberht,5,24,M,N
